@@ -1,0 +1,30 @@
+End of dynamic simulation trace
+End of Simulation
+######################################################
+trace_reader_t
+fetch_instructions:200001551
+######################################################
+processor_t
+#############
+BTB 1-BIT predictor
+#############
+Cycles: 197490173
+BTB misses: 155045
+BTB hits: 3596694
+Right predictions: 1503463
+Wrong predictions: 2248276
+Total: 3751739
+#############
+Perceptron
+#############
+Right predictions: 2745143
+Wrong predictions: 1006596
+Total: 3751739
+0%
+#############
+Perceptron Fast Path
+#############
+Right predictions: 1989496
+Wrong predictions: 1762243
+Total: 3751739
+0%

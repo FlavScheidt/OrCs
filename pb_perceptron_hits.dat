@@ -1,0 +1,6 @@
+astar			pb_perceptron 		61.7888
+calculix		pb_perceptron		95.6036
+dealIII			pb_perceptron		78.2301
+gromacs			pb_perceptron		65.012
+libquantum		pb_perceptron 		97.0202
+namd			pb_perceptron		73.4447
